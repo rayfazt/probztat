@@ -1,0 +1,2 @@
+# probztat
+check the statistacs
